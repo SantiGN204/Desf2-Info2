@@ -1,0 +1,20 @@
+# Formato Registro Album: A ID_ALBUM ID_DUEÑO PRIVACIDAD(+|f|-) NOMBRE_ALBUM RUTA_ALBUM
+# Formato Registro Foto:  F ID_FOTO ID_ALBUM FECHA TAMAÑO_BYTES LIKES RUTA_FOTO
+A 0 0 f Cartagena2026 /users/fixed/juanito76/albums/Cartagena2026
+F 0 0 26/12/2026 2048500 12 /users/fixed/juanito76/albums/Cartagena2026/Malecon2612.png
+F 1 0 27/12/2026 1890000 5 /users/fixed/juanito76/albums/Cartagena2026/Bocagrande1.png
+A 1 0 + Perfil /users/fixed/juanito76/albums/profile
+F 2 1 01/01/2026 512000 30 /users/fixed/juanito76/albums/profile.png
+A 2 1 + VacacionesMedellin /users/fixed/maria_p/albums/VacacionesMedellin
+F 3 2 10/01/2026 3100000 45 /users/fixed/maria_p/albums/VacacionesMedellin/Guatape.png
+F 4 2 11/01/2026 2800000 20 /users/fixed/maria_p/albums/VacacionesMedellin/PueblitoPaisa.png
+A 3 1 f FotosFamilia /users/fixed/maria_p/albums/FotosFamilia
+F 5 3 05/02/2026 1500000 8 /users/fixed/maria_p/albums/FotosFamilia/Reunion.png
+A 4 2 - ProyectoSecreto /users/fixed/carlos_m/albums/ProyectoSecreto
+F 6 4 12/03/2026 4200000 0 /users/fixed/carlos_m/albums/ProyectoSecreto/Esquema.png
+A 5 3 + Grado /users/fixed/ana_g/albums/Grado
+F 7 5 15/01/2026 2100000 18 /users/fixed/ana_g/albums/Grado/Ceremonia.png
+A 6 5 f PlayasCartagena /users/fixed/sofia_r/albums/PlayasCartagena
+F 8 6 12/01/2026 3400000 22 /users/fixed/sofia_r/albums/PlayasCartagena/PlayaBlanca.png
+A 7 7 + Mascotas /users/fixed/laura_m/albums/Mascotas
+F 9 7 20/02/2026 1100000 50 /users/fixed/laura_m/albums/Mascotas/MiPerro.png
